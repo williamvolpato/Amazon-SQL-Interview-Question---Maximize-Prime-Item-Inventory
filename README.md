@@ -41,3 +41,6 @@ You can find the challenge here: [Amazon SQL Interview Question | DataLemur](htt
 
 The DataLemur platform offers challenges for all experience levels – from beginners to advanced professionals. It's a great way to practice and prepare for technical interviews. Highly recommended! 💪
 
+[🇧🇷 Versão em Português](./README-PT.md)
+
+
