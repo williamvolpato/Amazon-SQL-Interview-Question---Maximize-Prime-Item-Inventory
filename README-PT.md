@@ -37,7 +37,7 @@ O código da solução pode ser encontrado no arquivo [solution.sql](./solution.
 
 ### 🔗 Experimente o Desafio Você Mesmo
 
-Você pode encontrar o desafio aqui: [Amazon SQL Interview Question | DataLemur](https://datalemur.com/questions/amazon-sql-interview)
+Você pode encontrar o desafio aqui: [Amazon SQL Interview Question | DataLemur](https://datalemur.com/questions/prime-warehouse-storage)
 
 A plataforma DataLemur oferece desafios para todos os níveis de experiência – desde iniciantes até profissionais avançados. É uma ótima forma de praticar e se preparar para entrevistas técnicas. Recomendo! 💪
 
